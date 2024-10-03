@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css';
-import insta from './insta.png'
+import insta from './INSTA.svg'
 import In from './LinkedIn.svg' 
 import X from './X.svg'
 import  picapool_logo from './picapool_logo.png';
@@ -26,13 +26,13 @@ const Footer = () =>{
                     <h1>
                         Follow Us!
                     </h1>
-                <a href="#" class="fa fa-instagram">
+                <a href="https://www.instagram.com/picapool_/" class="fa fa-instagram">
                     <img src={insta} />
                 </a>
-                <a href="#" class="fa fa-linkedin">
+                <a href="https://www.linkedin.com/company/picapool/posts/?feedView=all" class="fa fa-linkedin">
                     <img src={In}/>
                 </a>
-                <a href="#" class="fa fa-X">
+                <a href="https://x.com/PICAPOOL_" class="fa fa-X">
                     <img src={X} />
                 </a>
                 </div>

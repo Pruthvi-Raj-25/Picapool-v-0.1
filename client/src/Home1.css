@@ -99,22 +99,15 @@
     position: relative;
     left: 50%;  
     width: 50%;
-    /* background-color: rgba(0, 255, 255, 0.381); */
     color: #000;
 }
 .image-container-2{
-    /* float: left; */
-    /* position: relative; */
-    /* left: 50%;   */
     width: 50%;
-    /* background-color: rgba(0, 255, 255, 0.381); */
     color: #000;
 }
 .text-container-2{
-    /* float: right; */
     position: relative;
     left: 50%;
-    /* background-color: rgb(147, 90, 21); */
     width: 50%;
 }
 .full-line{
